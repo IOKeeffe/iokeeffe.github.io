@@ -6,3 +6,11 @@
 .portfolio-header {
   text-align: center;
 }
+.portfolio-item-links {
+  display: block;
+  max-width: 99px;
+  margin: 0 auto;}
+.portfolio-item-link {
+  display: block;
+  max-width: 45px;
+  margin: 0 auto;}
